@@ -68,8 +68,8 @@ Then, you can press `G` to enable `3D Nav Goal` in RViz and click to select a po
 source devel/setup.bash # or source devel/setup.zsh
 roslaunch rog_map_example rrt_example.launch 
 ```
-![栅格示意图](D:\zxy_github\ROG-MAP\image.jpg)
-![路径规划示意图](D:\zxy_github\ROG-MAP\image2.jpg)
+![栅格示意图](./image.jpg)
+![路径规划示意图](./image2.jpg)
 
 
 
