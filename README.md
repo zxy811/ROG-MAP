@@ -68,16 +68,8 @@ Then, you can press `G` to enable `3D Nav Goal` in RViz and click to select a po
 source devel/setup.bash # or source devel/setup.zsh
 roslaunch rog_map_example rrt_example.launch 
 ```
+![栅格示意图](D:\zxy_github\ROG-MAP\image.jpg)
+![路径规划示意图](D:\zxy_github\ROG-MAP\image2.jpg)
 
 
 
-
-## Acknowledgements
-
-Special thanks to [ZJU-FAST-Lab](https://github.com/ZJU-FAST-Lab) and [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics) for their great works.
-
-* The MARSIM is modified from [MARSIM](https://github.com/hku-mars/MARSIM)
-
-- The RRT* example was adapted from [ZJU-FAST-Lab's sampling-based path finding](https://github.com/ZJU-FAST-Lab/sampling-based-path-finding).
-- Parts of ROG-Map and the A* example were inspired by [Ego-Planner](https://github.com/ZJU-FAST-Lab/ego-planner).
-- The ESDF module was modified from [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner), with the addition of local map sliding functionality.
